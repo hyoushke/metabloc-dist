@@ -1,0 +1,1 @@
+import{r as t}from"./jsx-runtime-69245957.js";const o=e=>t.createElement("svg",{width:62,height:62,viewBox:"0 0 62 62",fill:"none",xmlns:"http://www.w3.org/2000/svg",...e},t.createElement("circle",{cx:31,cy:31,r:28,stroke:"#004d40",strokeWidth:6,strokeDasharray:"12 12"}));export{o as default};
