@@ -1,1 +1,0 @@
-import{j as t}from"./jsx-runtime-69245957.js";import{M as o}from"./meta.component-d5dd64d5.js";import"./index.module-f8e7b5fe.js";const n=()=>t.jsxs(t.Fragment,{children:[t.jsx(o,{description:"404",title:"Not found"}),t.jsx("h1",{children:"Not found"})]});export{n as NotFoundPage,n as default};
